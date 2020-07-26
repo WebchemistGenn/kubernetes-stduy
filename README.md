@@ -1,6 +1,6 @@
 # Kubernetes Study
 
-> 동인이가 알려주는 Kubernetes 주간 스터디
+> [동인이](https://github.com/donginKim)가 알려주는 Kubernetes 주간 스터디
 
 ### 1주차
 
